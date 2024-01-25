@@ -1,0 +1,66 @@
+---
+title: 'Homework #2'
+author: "Anthony Yang, UT EID: ady368"
+output: pdf_document
+---
+
+```{r global_options, echo=FALSE}
+knitr::opts_chunk$set(fig.height=3, fig.width=5, warning=FALSE, tidy=TRUE, tidy.opts=list(width.cutoff=60))
+```
+
+## Problem 1: Beauty, or not, in the classroom
+
+### Part A
+``` {r echo=FALSE}
+
+```
+
+
+### Part B
+``` {r echo=FALSE}
+
+```
+
+
+### Part C
+``` {r echo=FALSE}
+
+```
+
+
+### Part D
+``` {r echo=FALSE}
+
+```
+
+
+## Problem 2: Bike sharing
+
+``` {r echo=FALSE}
+
+```
+
+## Problem 3: Capital Metro UT Ridership
+
+``` {r echo=FALSE}
+
+```
+
+## Problem 4: Wrangling the Billboard Top 100
+
+### Part A
+``` {r echo=FALSE}
+
+```
+
+
+### Part B
+``` {r echo=FALSE}
+
+```
+
+
+### Part C
+``` {r echo=FALSE}
+
+```
